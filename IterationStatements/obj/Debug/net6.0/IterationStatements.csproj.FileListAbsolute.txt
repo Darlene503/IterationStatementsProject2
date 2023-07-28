@@ -1,0 +1,15 @@
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/bin/Debug/net6.0/IterationStatements
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/bin/Debug/net6.0/IterationStatements.deps.json
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/bin/Debug/net6.0/IterationStatements.runtimeconfig.json
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/bin/Debug/net6.0/IterationStatements.dll
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/bin/Debug/net6.0/IterationStatements.pdb
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.AssemblyReference.cache
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/obj/Debug/net6.0/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfoInputs.cache
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/obj/Debug/net6.0/IterationStatements.AssemblyInfo.cs
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/obj/Debug/net6.0/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/obj/Debug/net6.0/IterationStatements.dll
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/obj/Debug/net6.0/refint/IterationStatements.dll
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/obj/Debug/net6.0/IterationStatements.pdb
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/obj/Debug/net6.0/IterationStatements.genruntimeconfig.cache
+/Users/Lene/Desktop/repos2/IterationStatementsProject2/IterationStatements/obj/Debug/net6.0/ref/IterationStatements.dll
