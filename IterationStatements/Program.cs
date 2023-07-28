@@ -5,6 +5,15 @@
         //LukeWarm Section: Create methods below
         //Write a method that will print to the console all numbers 1000 through - 1000
 
+        static void PrintNumbers()
+        {
+            for (int num = 1000; num >= 100; num--)
+            {
+                Console.WriteLine(num);
+                    }
+        }
+
+
         //Write a method that will print to the console numbers 3 through 999 by 3 each time
 
         //Write a method to accept two integers as parameterss and check whether they are equal or not
