@@ -7,17 +7,11 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="IterationStatements/Program.cs">
     <Files>
-      <File FileName="IterationStatements/Program.cs" Line="71" Column="1" />
+      <File FileName="IterationStatements/Program.cs" Line="69" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="IterationStatements">
-            <Node name="IterationStatements">
-              <Node name="Dependencies" expanded="True" />
-            </Node>
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
