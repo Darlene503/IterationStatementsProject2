@@ -1,4 +1,6 @@
-﻿namespace IterationStatements
+﻿using System.ComponentModel;
+
+namespace IterationStatements
 {
     public class Program
     {
@@ -31,7 +33,7 @@
             {
 
             }
-       
+
         }
 
         // Write a method to check whether a given number is even or odd
@@ -61,9 +63,24 @@
         {
             Console.Write("Enter your age here: ");
             var canParse = int.TryParse(Console.ReadLine(), out int age);
-            Console.WriteLine(age);
 
-            return  age >=0;
+            while (canParse == false)
+            {
+                Console.WriteLine("Please enter numeric age: ");
+                canParse = int.TryParse(Console.ReadLine(), out age);
+                Console.WriteLine(age);
+            }
+
+
+            if (age >= 18)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
 
         }
         static void Main(string[] args)
@@ -74,11 +91,79 @@
             EvenorOdd(2);
             var isPositive = IsPositive(7);
             Console.WriteLine(isPositive);
-            CanVote();
-            Console.WriteLine("Vote Wisley!");
+            bool canVote = CanVote();
+
+            if (canVote)
+            {
+                Console.WriteLine("Vote Wisley! ");
+            }
+            else
+            {
+                Console.WriteLine("Eh, maybe next year.");
+            }
+
+            //bool InTenRange = InTenRange(9);
+
+            Console.WriteLine(InTenRange);
+
+
+            MultiplyThru12(12);
+
+
+
         }
+
+
+
+        //Heatin Up Section:
+        //Write a method to check if an integer(from the user) is in the range -10 to 10
+
+        public static bool InTenRange(int num)
+        {
+            if (num <= 10 && num >= -10)
+            {
+
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+        //Write a method to display the multiplication table(from 1 to 12) of a given integer
+
+        public static void MultiplyThru12(int num)
+        {
+            for (int i = 1; i <= 12; i++)
+            {
+                Console.WriteLine($"{num} x {i} = {num} x {i}");
+            }
+
+
+
+
+        }
+
     }
+
 }
+
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
 
 
 
